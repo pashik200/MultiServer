@@ -10,3 +10,5 @@ Break the limit of 4 servers in [PocketMine-MP](https://github.com/shoghicp/Pock
  - After the plugin has been installed, configure it using `/multiadd <port> [server]`.
  - If the server is on the same computer, omit the _server_ parameter.
  - Done!
+
+- _Note: Internal servers created with this method won't need prot forwarding, only the main one._
