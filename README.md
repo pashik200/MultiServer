@@ -11,4 +11,4 @@ Break the limit of 4 servers in [PocketMine-MP](https://github.com/shoghicp/Pock
  - If the server is on the same computer, omit the _server_ parameter.
  - Done!
 
-- _Note: Internal servers created with this method won't need prot forwarding, only the main one._
+- _Note: Internal servers created with this method won't need port forwarding, only the main one._
