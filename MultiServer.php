@@ -7,7 +7,7 @@ description=Run more than 4 servers in your network
 version=0.1
 author=shoghicp
 class=MultiServer
-apiversion=5,6,7
+apiversion=5,6,7,8
 */
 
 /*
