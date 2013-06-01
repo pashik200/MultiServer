@@ -48,7 +48,7 @@ class MultiServer implements Plugin{
 						Utils::readLong("\x31\x33\x70\x00\x31\x33\x70\x00"),
 						RAKNET_MAGIC,
 						$packet["ip"].";".$packet["port"],
-					), false, $server["ip"], $server["port"]);
+					), false, $server["server"], $server["port"]);
 				}
 				break;
 			case 0x1d: //Ping Internal
